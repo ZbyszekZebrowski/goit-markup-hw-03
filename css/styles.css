@@ -25,6 +25,8 @@ ul {
 
 img {
   display: block;
+  width: 100%;
+  height: auto;
 }
 
 body {
@@ -287,13 +289,17 @@ body {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
-  padding-bottom: 32px;
+
 }
 
 .team-item-photo {
   width: 264px;
   height: 260px;
-  margin-bottom: 32px;
+
+}
+.team-information{
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .team-person-name {
@@ -392,13 +398,13 @@ body {
   gap: 48px 24px;
 }
 
-.works-list li {
-  width: calc((100% - 48px) / 3);
-}
+/* .works-list li { */
+
+
 
 .works-items {
-  max-width: 360px;
-  padding: 32px 16px; 
+
+    width: calc((100% - 48px) / 3);
 }
 
 .works-content-text {
@@ -424,5 +430,5 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
-  padding: 32px 16px
+
 }
