@@ -352,7 +352,7 @@ body {
   color: var(--cloud);
   margin-top: 16px;
 }
-.logo-footer link{
+.logo-footer-link{
   display: inline-block;
   margin-bottom: 16px;
 }
