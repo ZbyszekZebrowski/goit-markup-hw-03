@@ -38,6 +38,10 @@ body {
 .button {
   cursor: pointer;
 }
+.elements-style{
+  padding-bottom: 300;
+  padding-top: 360;
+}
 
 .link {
   text-decoration: none;
