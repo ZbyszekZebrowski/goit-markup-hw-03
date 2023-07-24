@@ -292,8 +292,7 @@ body {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
-    padding-top: 32px;
-      padding-bottom: 32px;
+
 
 }
 
@@ -302,10 +301,7 @@ body {
   height: 260px;
 
 }
-.team-information{
-  padding-top: 32px;
-  padding-bottom: 32px;
-}
+
 
 .team-person-name {
   font-weight: 500;
