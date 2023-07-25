@@ -62,6 +62,7 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+
   
   
 }
@@ -424,7 +425,7 @@ body {
 .works-content-text {
   border: 1px solid var(--cornflower);
   border-top: none;
-  padding: 32px 0 32px 16px;
+  padding: 32px 16px;
 }
 
 /* .works-images {
